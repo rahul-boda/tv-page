@@ -1,0 +1,78 @@
+.parent{
+    
+    display: flex;
+   justify-content:space-between;
+   align-items: center;
+   list-style-type: none;
+   background-color: rgb(255, 255, 250);
+
+
+}
+
+
+
+  
+
+h1{
+    flex: ;
+    display: flex;
+    justify-content: space-around;
+    align-items:flex-start;
+    margin-right: 200px;
+    padding: 10px
+    
+}
+
+nav{
+    flex: ;
+    display:flex;
+    flex: auto;
+   
+    align-items: center;
+
+    
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+
+
+
+.page{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 0%;
+    gap: 20px;
+    
+}
+
+
+
+
+.too{
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 5px;
+    
+}
+.p{padding: 10px;}
+
+
+
+.foot{
+    height: 100px;
+    background-color: rgb(58, 58, 67);
+    padding: 10px;
+  
+   
+
+
+
+
+
+
+   
